@@ -10,7 +10,7 @@ from prediction import predict_churn
 # PATHS AND CONFIGURATION
 
 BASE_DIR = Path(__file__).resolve().parent
-DATA_PATH = BASE_DIR / "Data" / "netflix_churn.csv"
+DATA_PATH = BASE_DIR / "netflix_churn.csv"
 
 st.set_page_config(
     page_title="Netflix Churn Prediction",
