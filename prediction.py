@@ -3,7 +3,7 @@ from pathlib import Path
 import pickle
 import pandas as pd
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent
 MODEL_PATH = BASE_DIR / "churn_model.pkl"
 
 with open(MODEL_PATH, "rb") as file:
