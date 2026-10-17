@@ -5,7 +5,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-from SRC.prediction import predict_churn
+from prediction import predict_churn
 
 # PATHS AND CONFIGURATION
 
