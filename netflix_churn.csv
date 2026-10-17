@@ -1,0 +1,100 @@
+subscriber_id,age,gender,subscription_type,watch_hours,last_login_days,region,device,monthly_fee,payment_method,number_of_profiles,avg_watch_time_per_day,favorite_genre,tenure_months,churned
+NFX00001,22,Male,Standard,30.6,4,North America,Mobile,15.49,Credit Card,3,0.77,Romance,53,No
+NFX00002,59,Male,Premium,51.7,10,Asia,Laptop,22.99,Debit Card,3,2.06,Comedy,37,No
+NFX00003,52,Male,Standard,19.7,8,Africa,Smart TV,15.49,PayPal,1,0.79,Thriller,12,No
+NFX00004,41,Male,Standard,35.7,5,South America,Laptop,15.49,Debit Card,1,1.73,Documentary,56,No
+NFX00005,40,Male,Premium,10.6,2,North America,Laptop,22.99,Credit Card,3,0.16,Thriller,28,No
+NFX00006,63,Male,Standard,30.1,5,North America,Laptop,15.49,Debit Card,3,0.99,Drama,52,No
+NFX00007,22,Female,Standard,36.1,4,Africa,Mobile,15.49,Debit Card,3,0.62,Documentary,15,No
+NFX00008,54,Male,Standard,30.7,4,Africa,Tablet,15.49,Credit Card,1,0.51,Thriller,66,No
+NFX00009,28,Male,Basic,78.4,1,Europe,Laptop,7.99,PayPal,3,3.49,Action,21,No
+NFX00010,22,Female,Standard,60.7,19,Asia,Smart TV,15.49,Credit Card,1,3.0,Sci-Fi,70,No
+NFX00011,45,Female,Basic,40.0,18,Europe,Streaming Device,7.99,Debit Card,1,1.62,Documentary,28,No
+NFX00012,69,Male,Basic,48.6,6,Europe,Laptop,7.99,Debit Card,3,1.58,Action,53,No
+NFX00013,56,Female,Standard,29.9,8,North America,Streaming Device,15.49,Digital Wallet,4,1.14,Drama,37,No
+NFX00014,58,Female,Standard,24.2,10,North America,Streaming Device,15.49,Credit Card,4,1.36,Comedy,6,No
+NFX00015,56,Female,Premium,18.2,6,North America,Streaming Device,22.99,Credit Card,5,0.68,Documentary,8,No
+NFX00016,59,Female,Basic,10.4,9,South America,Tablet,7.99,Credit Card,5,0.68,Action,30,No
+NFX00017,45,Female,Basic,62.4,11,North America,Laptop,7.99,Debit Card,2,2.33,Sci-Fi,14,No
+NFX00018,24,Male,Premium,80.3,8,North America,Smart TV,22.99,Credit Card,4,2.73,Romance,44,No
+NFX00019,62,Female,Basic,25.8,13,Europe,Laptop,7.99,Gift Card,1,0.93,Comedy,10,No
+NFX00020,41,Male,Basic,26.1,4,North America,Tablet,7.99,Credit Card,5,1.22,Thriller,43,No
+NFX00021,44,Male,Basic,37.1,7,North America,Mobile,7.99,Credit Card,2,1.14,Documentary,15,No
+NFX00022,37,Female,Standard,22.6,38,Asia,Streaming Device,15.49,Debit Card,4,1.16,Drama,14,Yes
+NFX00023,27,Female,Premium,11.5,15,Europe,Smart TV,22.99,Gift Card,5,0.47,Thriller,27,No
+NFX00024,67,Male,Premium,8.9,8,Asia,Mobile,22.99,Digital Wallet,4,0.59,Documentary,42,No
+NFX00025,59,Female,Standard,78.6,3,South America,Mobile,15.49,PayPal,5,3.35,Drama,29,Yes
+NFX00026,52,Female,Basic,6.3,7,North America,Mobile,7.99,Debit Card,1,0.4,Documentary,26,No
+NFX00027,39,Other,Standard,31.4,14,South America,Smart TV,15.49,PayPal,1,1.62,Romance,25,No
+NFX00028,61,Other,Standard,7.0,12,South America,Smart TV,15.49,PayPal,4,0.05,Action,25,No
+NFX00029,46,Male,Basic,23.4,1,South America,Streaming Device,7.99,Credit Card,3,0.87,Action,30,No
+NFX00030,41,Female,Basic,19.6,1,Asia,Mobile,7.99,Debit Card,1,0.91,Drama,61,No
+NFX00031,41,Male,Basic,8.1,10,Asia,Smart TV,7.99,Gift Card,4,1.19,Comedy,42,No
+NFX00032,30,Male,Basic,37.9,1,Asia,Smart TV,7.99,Credit Card,1,0.83,Sci-Fi,31,No
+NFX00033,22,Female,Standard,10.9,3,Asia,Mobile,15.49,PayPal,5,0.58,Thriller,54,Yes
+NFX00034,47,Male,Standard,7.1,6,North America,Smart TV,15.49,Debit Card,1,1.0,Comedy,38,No
+NFX00035,65,Female,Basic,40.7,16,Africa,Laptop,7.99,Debit Card,3,1.33,Documentary,69,No
+NFX00036,21,Female,Standard,19.7,11,Asia,Tablet,15.49,Credit Card,5,0.83,Comedy,41,No
+NFX00037,63,Male,Premium,14.3,6,Asia,Smart TV,22.99,PayPal,3,0.84,Documentary,16,Yes
+NFX00038,61,Female,Standard,42.3,13,Europe,Laptop,15.49,Digital Wallet,4,1.72,Comedy,41,No
+NFX00039,32,Female,Premium,10.4,28,North America,Smart TV,22.99,Credit Card,4,1.14,Thriller,56,No
+NFX00040,51,Male,Standard,5.6,7,Europe,Mobile,15.49,Debit Card,5,0.59,Documentary,16,Yes
+NFX00041,26,Other,Premium,54.7,2,Europe,Streaming Device,22.99,Credit Card,3,2.54,Thriller,15,No
+NFX00042,58,Male,Basic,71.9,3,Europe,Laptop,7.99,Credit Card,5,2.52,Documentary,44,No
+NFX00043,55,Male,Standard,23.0,3,Europe,Streaming Device,15.49,Digital Wallet,3,0.76,Action,64,No
+NFX00044,36,Other,Basic,1.1,4,North America,Smart TV,7.99,Debit Card,5,0.21,Comedy,25,No
+NFX00045,21,Female,Standard,22.8,5,Europe,Mobile,15.49,Credit Card,4,0.6,Comedy,37,No
+NFX00046,69,Female,Standard,43.8,9,Europe,Mobile,15.49,Credit Card,1,1.88,Documentary,48,No
+NFX00047,41,Female,Basic,51.3,2,Africa,Mobile,7.99,Digital Wallet,4,1.82,Documentary,48,No
+NFX00048,65,Female,Premium,11.4,2,North America,Streaming Device,22.99,Credit Card,5,0.39,Thriller,11,Yes
+NFX00049,53,Male,Basic,20.3,11,Europe,Smart TV,7.99,PayPal,1,1.1,Drama,29,No
+NFX00050,59,Female,Basic,29.8,4,North America,Streaming Device,7.99,Credit Card,5,0.84,Comedy,72,No
+NFX00051,58,Female,Basic,42.2,3,Europe,Streaming Device,7.99,Credit Card,1,1.93,Romance,64,No
+NFX00052,28,Female,Standard,39.4,6,Europe,Laptop,15.49,PayPal,5,1.4,Sci-Fi,56,No
+NFX00053,37,Female,Basic,35.4,18,Asia,Mobile,7.99,Credit Card,4,1.84,Sci-Fi,2,No
+NFX00054,42,Male,Standard,51.2,12,Africa,Mobile,15.49,PayPal,1,1.82,Action,31,No
+NFX00055,44,Female,Basic,24.2,12,North America,Mobile,7.99,Credit Card,4,1.28,Drama,4,No
+NFX00056,20,Female,Premium,62.8,22,Asia,Tablet,22.99,PayPal,1,2.41,Comedy,22,No
+NFX00057,46,Female,Premium,16.8,9,North America,Mobile,22.99,Gift Card,3,1.07,Drama,63,No
+NFX00058,26,Male,Standard,39.8,24,North America,Streaming Device,15.49,PayPal,5,1.62,Sci-Fi,28,No
+NFX00059,57,Male,Standard,18.6,25,Europe,Laptop,15.49,Credit Card,2,0.29,Sci-Fi,13,No
+NFX00060,54,Male,Premium,23.2,2,North America,Mobile,22.99,PayPal,1,1.38,Romance,52,No
+NFX00061,66,Female,Premium,25.8,1,Asia,Laptop,22.99,Digital Wallet,3,1.08,Romance,55,No
+NFX00062,57,Female,Standard,17.8,3,Asia,Mobile,15.49,Credit Card,2,1.12,Action,48,No
+NFX00063,37,Male,Premium,52.6,17,Asia,Streaming Device,22.99,Credit Card,1,2.24,Documentary,59,No
+NFX00064,69,Male,Premium,19.2,6,Europe,Smart TV,22.99,Gift Card,3,0.62,Romance,51,No
+NFX00065,39,Male,Premium,24.9,5,Asia,Streaming Device,22.99,Credit Card,2,0.76,Romance,46,No
+NFX00066,35,Male,Standard,36.8,13,Europe,Tablet,15.49,PayPal,1,1.71,Documentary,65,No
+NFX00067,65,Male,Basic,99.7,4,North America,Streaming Device,7.99,PayPal,2,3.47,Romance,24,No
+NFX00068,37,Female,Basic,37.7,8,North America,Mobile,7.99,Credit Card,1,1.83,Action,33,No
+NFX00069,22,Female,Standard,26.5,11,Asia,Streaming Device,15.49,Debit Card,5,1.07,Action,41,Yes
+NFX00070,42,Male,Standard,4.8,3,Africa,Mobile,15.49,Debit Card,5,0.77,Romance,49,No
+NFX00071,60,Female,Standard,22.8,2,North America,Tablet,15.49,Credit Card,2,1.16,Action,35,No
+NFX00072,28,Male,Standard,15.6,7,Asia,Smart TV,15.49,Digital Wallet,5,0.87,Romance,32,No
+NFX00073,42,Male,Standard,20.2,8,Asia,Mobile,15.49,Credit Card,3,0.79,Documentary,12,No
+NFX00074,24,Male,Premium,18.3,12,South America,Mobile,22.99,Debit Card,5,0.94,Action,46,No
+NFX00075,54,Male,Basic,36.6,3,Europe,Mobile,7.99,Digital Wallet,1,1.89,Comedy,9,No
+NFX00076,43,Male,Basic,22.5,4,Asia,Mobile,7.99,Credit Card,2,0.98,Thriller,35,No
+NFX00077,35,Male,Premium,12.9,25,Asia,Tablet,22.99,Gift Card,4,0.87,Documentary,30,No
+NFX00078,30,Male,Premium,45.0,15,South America,Smart TV,22.99,Credit Card,2,1.77,Action,56,No
+NFX00079,47,Male,Premium,9.6,6,North America,Tablet,22.99,Debit Card,5,0.61,Romance,35,Yes
+NFX00080,53,Female,Premium,25.6,16,Africa,Smart TV,22.99,Credit Card,3,1.71,Drama,1,No
+NFX00081,67,Male,Premium,22.9,3,North America,Tablet,22.99,PayPal,3,1.43,Drama,37,No
+NFX00082,41,Male,Basic,32.0,6,South America,Tablet,7.99,Gift Card,3,1.34,Sci-Fi,16,No
+NFX00083,26,Female,Standard,51.5,8,North America,Mobile,15.49,Digital Wallet,4,2.04,Thriller,28,No
+NFX00084,62,Female,Basic,100.0,5,North America,Laptop,7.99,Digital Wallet,1,3.34,Documentary,22,Yes
+NFX00085,51,Male,Standard,26.5,5,North America,Streaming Device,15.49,PayPal,4,1.07,Drama,12,No
+NFX00086,55,Male,Premium,15.4,12,Europe,Tablet,22.99,Gift Card,4,0.87,Thriller,69,No
+NFX00087,23,Female,Basic,14.3,15,Europe,Mobile,7.99,Debit Card,5,1.02,Documentary,19,No
+NFX00088,34,Female,Standard,14.2,5,North America,Mobile,15.49,Digital Wallet,5,0.99,Thriller,37,No
+NFX00089,58,Female,Basic,31.3,2,Europe,Tablet,7.99,PayPal,4,0.91,Drama,60,No
+NFX00090,62,Female,Basic,3.8,1,Europe,Mobile,7.99,Digital Wallet,3,0.72,Documentary,27,No
+NFX00091,41,Male,Basic,9.1,1,Asia,Tablet,7.99,Credit Card,3,0.52,Thriller,68,No
+NFX00092,60,Female,Basic,31.3,22,South America,Mobile,7.99,Debit Card,2,0.95,Action,30,No
+NFX00093,62,Female,Premium,46.4,12,Asia,Tablet,22.99,PayPal,5,2.26,Drama,69,No
+NFX00094,38,Male,Standard,46.6,10,North America,Smart TV,15.49,Credit Card,2,2.32,Sci-Fi,33,No
+NFX00095,65,Female,Premium,27.3,4,North America,Smart TV,22.99,Credit Card,3,1.25,Thriller,2,No
+NFX00096,33,Female,Standard,42.7,4,South America,Streaming Device,15.49,Digital Wallet,1,1.92,Thriller,63,No
+NFX00097,30,Male,Basic,52.1,15,North America,Streaming Device,7.99,Debit Card,2,2.26,Romance,63,No
+NFX00098,54,Male,Basic,19.0,1,Europe,Streaming Device,7.99,Credit Card,2,1.37,Thriller,70,No
+NFX00099,51,Other,Premium,48.8,5,Africa,Streaming Device,22.99,Credit Card,3,2.13,Drama,9,No
