@@ -4,7 +4,7 @@ import pickle
 import pandas as pd
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-MODEL_PATH = BASE_DIR / "Models" / "churn_model.pkl"
+MODEL_PATH = BASE_DIR / "churn_model.pkl"
 
 with open(MODEL_PATH, "rb") as file:
     model = pickle.load(file)
